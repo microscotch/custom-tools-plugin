@@ -6,3 +6,6 @@ work
 *.iml
 .settings/
 *~
+.vscode/settings.json
+.m2repository
+.devcontainer/.env
